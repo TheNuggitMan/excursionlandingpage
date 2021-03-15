@@ -26,3 +26,8 @@ img {
 footer p {
     text-align: right;
 }
+@media (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
