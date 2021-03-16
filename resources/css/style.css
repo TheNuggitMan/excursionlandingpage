@@ -26,7 +26,7 @@ img {
 footer p {
     text-align: right;
 }
-@media (max-width: 1000px) {
+@media (max-width: 600px) {
   a, footer p {
     font-size: 10px;
   }
